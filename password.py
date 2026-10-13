@@ -120,9 +120,7 @@ else:
     st.warning("Please enter a password to begin the analysis.")
 
 st.caption("Password Strength Checker | Python + Streamlit")
-2. How to run the program
-Step 1: Install the required libraries
-Open the PyCharm terminal or Google Colab cell and run:
+
 
 bash
 pip install streamlit
